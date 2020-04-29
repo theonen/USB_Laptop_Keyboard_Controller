@@ -26,6 +26,8 @@
      Keyboard_Scanner_Dual.brd EagleCad file is for keyboards with dual FPC cables
  
      Keyboard_Scanner_4p0.brd  EagleCad file for Teensy LC or 4.0
+     
+     Keyboard_Scanner_LC_thruhole.brd  EagleCad file for Teensy LC with 26 pin thru hole FPC connector
  
      Keyboard_Scanner_.....2020-02-26.zip  Zipped gerber files for PJRC fabrication
      
@@ -107,3 +109,5 @@ IBM T43 Folder
 *  Sony Vaio VPCEB4 – Keyboard part number A-1766-425-A
 *  Sony Vaio P - Keyboard part number N860-7885-T001
 *  Lenovo ThinkPad T61 - Keyboard part number 42T3177 (Teensy 3p2 and Teensy LC folders)
+*  Toshiba T1200
+*  MSI GE63 Raider RGB 8RE 
